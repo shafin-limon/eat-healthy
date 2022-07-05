@@ -11,6 +11,11 @@ h1 {
     color: #575757;
 }
 
+h2 {
+    font-size: 40px;
+    color: #707070;
+}
+
 p {
     font-size: 20px;
     color: #828282;
@@ -36,4 +41,26 @@ p {
     color: white;
     text-decoration: none;
     display: inline-block;
+}
+
+.bg-color {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.about {
+    width: 50%;
+}
+
+.about img {
+    width: 50%;
+}
+
+.wrapper {
+    padding: 60px 200px 0;
+}
+
+.about p {
+    font-size: 18px;
+    color: 18191F;
 }
