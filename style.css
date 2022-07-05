@@ -16,6 +16,11 @@ h2 {
     color: #707070;
 }
 
+h3 {
+    font-size: 28px;
+    color: #676767;
+}
+
 p {
     font-size: 20px;
     color: #828282;
@@ -63,4 +68,12 @@ p {
 .about p {
     font-size: 18px;
     color: 18191F;
+}
+
+.port-heading {
+    text-align: center;
+}
+
+.port-heading p {
+    font-size: 18px;
 }
