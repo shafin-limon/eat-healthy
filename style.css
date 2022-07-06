@@ -77,3 +77,20 @@ p {
 .port-heading p {
     font-size: 18px;
 }
+
+.box-shad {
+    width: 40%;
+    height: 562px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+
+.box-shad p {
+    font-size: 18px;
+}
+
+.m-1 {
+    margin-right: 5%;
+}
